@@ -4,6 +4,16 @@
 
 El Convertidor de Imágenes a PDF es una aplicación de escritorio fácil de usar, construida con PyQt5, que permite a los usuarios convertir múltiples imágenes en un solo archivo PDF. Esta herramienta ofrece varias opciones de personalización y una interfaz elegante para un proceso de conversión eficiente.
 
+## Capturas de Pantalla
+
+### Modo claro
+![Captura de pantalla de la calculadora en modo claro](https://github.com/VictorNivelo/Imagen_A_Pdf/blob/main/Imagenes/ModoClaro.png)
+
+### Modo oscuro
+![Captura de pantalla de la calculadora en modo oscuro](https://github.com/VictorNivelo/Imagen_A_Pdf/blob/main/Imagenes/ModoOscuro.png)
+
+
+
 ## Características
 
 - Selección de múltiples imágenes para la conversión
